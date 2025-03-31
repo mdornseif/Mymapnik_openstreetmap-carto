@@ -22,6 +22,7 @@ INSERT INTO tree_species VALUES
 ('ficus carica', 'de_DE', 'Feige'),
 ('diospyros kaki', 'de_DE', 'Kakibaum'),
 ('prunus dulcis', 'de_DE', 'Mandelbaum'),
+('sorbus aucuparia', 'de_DE', 'Eberesche'),
 ('syringa vulgaris', 'de_DE', 'Flieder'),
 ('tilia cordata', 'de_DE', 'Winterlinde'),
 ('tilia platyphyllos', 'de_DE', 'Sommerlinde'),
